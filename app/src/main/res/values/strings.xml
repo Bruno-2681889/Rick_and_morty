@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Rick</string>
+    <string name="content_description_images">""</string>
+    <string name="string_menu_personagens">PERSONAGENS</string>
+    <string name="string_menu_episodios">EPISÓDIOS</string>
+    <string name="string_menu_locais">LOCAIS</string>
+    <string name="string_teste_nome">Rick Sanchez</string>
+    <string name="string_genero">Male</string>
+    <string name="string_specie">Human</string>
+    <string name="string_status">Alive</string>
+    <string name="string_local">Earth</string>
+    <string name="string_tipo">-:-</string>
+    <string name="string_origem">Earth (C-137)</string>
+    <string name="string_label_nome">Nome:</string>
+    <string name="string_genero_label">Gênero:</string>
+    <string name="string_specie_label">Especie:</string>
+    <string name="string_origem_label">Origem:</string>
+    <string name="string_tipo_label">Tipo:</string>
+    <string name="string_codigo_ep_teste">S01E01</string>
+    <string name="string_nome_ep_teste">Piloto</string>
+    <string name="string_lista_local_label">Local:</string>
+    <string name="string_ultimo_ep_teste">S05E10</string>
+    <string name="string_data_lancamento_label">Data de Lançamento:</string>
+    <string name="string_air_date_teste">21/01/2017</string>
+    <string name="string_codigo_ep_label">Código Episódio:</string>
+    <string name="string_local_tipo">Planeta</string>
+    <string name="string_dimensao_label">Dimensão:</string>
+    <string name="string_residents_label">Residentes:</string>
+    <string name="string_residentes_teste">Humanos</string>
+    <string name="My_name">BRUNO LOPES</string>
+    <string name="local">LOCALIZAÇÃO</string>
+</resources>
